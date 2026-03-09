@@ -1,3 +1,4 @@
+![image alt](https://github.com/Elbodani/Churn-Data-Analysis/blob/d7d377f44dd82b27a34888d30407d31a2d31e7c5/Screenshot%202026-03-09%20235101.png)
 ## Project Overview
 The primary goal of this analysis is to decode the 27% Churn Rate within a customer base of 6,418. By visualizing churn through various lenses—such as 
 contract types, service categories, and specific customer pain points.The project identifies exactly where the business is losing revenue and why.
